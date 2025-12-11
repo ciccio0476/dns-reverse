@@ -1,2 +1,6 @@
+# Binari compilati
 *.exe
+dns-reverse-linux*
+
+# File CSV (dati locali)
 *.csv
